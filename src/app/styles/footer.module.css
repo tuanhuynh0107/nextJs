@@ -1,0 +1,93 @@
+.footer {
+    width: 100%;
+    /* margin: 0 auto; */
+    padding: 40px 0px;
+    background-color: #15141d;
+}
+
+.fhead {}
+
+.fhead__title {
+    color: #FFF;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.fhead__desc {
+    color: #FFF;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+
+.footer__search {
+    width: 318px;
+    color: #fff;
+    background: none;
+    border: 1px solid #fff;
+    border-radius: 12px;
+}
+
+.btn__search--footer {
+    border-radius: 12px;
+    background: #6E5CF8;
+    color: #fff;
+    right: 0px;
+}
+
+.fbody__logo {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: end;
+    gap: 10px;
+}
+
+.fbody__title {
+    display: inline-block;
+    color: #FFF;
+    font-size: 1.875rem;
+    font-weight: 900;
+    letter-spacing: 1.8px;
+    line-height: 1;
+    margin-bottom: -8px;
+}
+
+.fbody__desc {
+    width: 221px;
+    color: #FFF;
+    font-size: .875rem;
+    font-weight: 400;
+    letter-spacing: 0.84px;
+}
+
+.fbody__menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__footer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+}
+
+.menu__footer a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fbody {
+    margin-top: 40px;
+}
+
+.coppyright {
+    color: #FFF;
+    font-size: 0.875rem;
+    font-weight: 400;
+    letter-spacing: 0.84px;
+}
